@@ -29,7 +29,8 @@ Producers Direct should:
 3. Develop automated price-insight messages, e.g., price drops, best-selling locations, or price anomalies.
 4. Include price trend visualizations or weekly summaries to reduce repeated questions.
 
-### Finding 2: Financial questions rise during major farming cash-flow cycles—before planting (April) and during harvest/selling periods (July–Aug, Nov)
+### Key Finding 2: Financial questions rise during major farming cash-flow cycles—before planting (April) and during harvest/selling periods (July–Aug, Nov)
+![Key Finding 2](https://github.com/PreciousEnahoro/datakit-smallholder-farmers-fall-2025/blob/main/Challenge%205_%20Financial%20Inclusion/Precious%20Enahoro/key-finding-vizzes/Seasonal%20Trends%20in%20Farmer%20Financial%20Questions.png)
 
 Farmers' financial questions follow strong seasonal patterns:
 - Jan–Feb & April: spikes in startup capital, loan access, investment evaluation, affordability concerns — farmers preparing for planting.
